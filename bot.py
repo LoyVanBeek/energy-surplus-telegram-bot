@@ -66,7 +66,7 @@ class SurplusBot:
             else:
                 logging.info("Generating surplus over threshold but already sent a message")
         else:
-            logging.info(f'Now generating {returned}W but using {delivered}W, so you have {surplus}W short')
+            logging.info(f'Now generating {returned}W but using {delivered}W, so you have {abs(surplus)}W {"short" if surplus < 0 else "extra"}'.format())
 
 
 if __name__ == '__main__':
