@@ -1,6 +1,7 @@
 # energy-surplus-telegram-bot
 Get sent a notification when your solar panel are generating more than you use
-![dmsrreader_bot](https://user-images.githubusercontent.com/709259/142645240-04a0295d-623c-4c30-b93c-de13b90779d8.jpeg)
+
+<img src="https://user-images.githubusercontent.com/709259/142645240-04a0295d-623c-4c30-b93c-de13b90779d8.jpeg" width="300" alt="screenshot"/>
 
 ## Usage:
 
